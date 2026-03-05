@@ -13,7 +13,6 @@ $ whoami
 
   Name   : Alow
   Role   : Full Stack Developer
-  Motto  : Making our world more synthetic
   Stack  : Python · Java · JavaScript
 ```
 
@@ -51,9 +50,8 @@ $ whoami
 
 ```python
 passions = {
-    "Smart Devices"    : "IoT, embedded systems & hardware integration",
     "AI Tools"         : "LLMs, automation & intelligent pipelines",
-    "OCR"              : "Extracting text from images & documents",
+    "OCR"              : "Working with images, videos & documents",
     "TTS / STT"        : "Bridging human voice and machine data",
     "Data Digitization": "Turning the physical world into structured data",
 }
@@ -89,3 +87,4 @@ mission = "Making our world more synthetic, one sensor at a time."
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:00f7ff&height=100&section=footer" width="100%"/>
+
