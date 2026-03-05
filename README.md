@@ -75,16 +75,10 @@ mission = "Making our world more synthetic, one sensor at a time."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alowster&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alowster&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alowster&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B2FFF&currStreakLabel=00F7FF)](https://git.io/streak-stats)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:00f7ff&height=100&section=footer" width="100%"/>
+
 
