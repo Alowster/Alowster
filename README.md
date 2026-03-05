@@ -13,6 +13,7 @@ $ whoami
 
   Name   : Alow
   Role   : Full Stack Developer
+  Motto  : Making our world more synthetic
   Stack  : Python · Java · JavaScript
 ```
 
@@ -46,12 +47,38 @@ $ whoami
 
 ---
 
+### `> interests --passion`
+
+```python
+passions = {
+    "Smart Devices"    : "IoT, embedded systems & hardware integration",
+    "AI Tools"         : "LLMs, automation & intelligent pipelines",
+    "OCR"              : "Extracting text from images & documents",
+    "TTS / STT"        : "Bridging human voice and machine data",
+    "Data Digitization": "Turning the physical world into structured data",
+}
+
+mission = "Making our world more synthetic, one sensor at a time."
+```
+
+<div align="center">
+
+![IoT](https://img.shields.io/badge/Smart_Devices-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![AI](https://img.shields.io/badge/AI_Tools-0D1117?style=for-the-badge&logo=openai&logoColor=00F7FF)
+![OCR](https://img.shields.io/badge/OCR-0D1117?style=for-the-badge&logo=googlelens&logoColor=7B2FFF)
+![TTS](https://img.shields.io/badge/TTS_/_STT-0D1117?style=for-the-badge&logo=amazondynamodb&logoColor=FF9900)
+![Digitization](https://img.shields.io/badge/Data_Digitization-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+
+</div>
+
+---
+
 ### `> github --stats`
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alowster&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alowster&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alowster&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alowster&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -62,5 +89,3 @@ $ whoami
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:00f7ff&height=100&section=footer" width="100%"/>
-
-
