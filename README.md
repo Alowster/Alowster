@@ -13,7 +13,6 @@ $ whoami
 
   Name   : Alow
   Role   : Full Stack Developer
-  Motto  : Making our world more synthetic
   Stack  : Python · Java · JavaScript
 ```
 
@@ -63,3 +62,4 @@ $ whoami
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:00f7ff&height=100&section=footer" width="100%"/>
+
